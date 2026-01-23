@@ -1,4 +1,6 @@
 # ORVY Engineering & Consulting
+![Static Badge](https://img.shields.io/badge/orvy-engineering-blue?labelColor=ff914d&color=1f48ff)
+
 
 <img width="30%" alt="Logo_original_1_high_transparent" src="https://github.com/user-attachments/assets/c435be7c-8005-43d4-947f-e5f0250544a9" />
 
